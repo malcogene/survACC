@@ -9,7 +9,7 @@ This page provides the supplementary R code and data to reproduce the experiment
 * [ACC batch corrected](https://konkukackr-my.sharepoint.com/:u:/g/personal/palelamp_kku_ac_kr/Eb3wdN_SLfVJt2luFluHcbQBFHpJcGgMdiY--5qRdAmnpQ?e=SJTEJv)
 
 
-* The main R code can be downloaded from [here](https://github.com/malcogene/OIS_meta/blob/main/R/main_R_code.R)
+* The main R code can be downloaded from [here](https://github.com/malcogene/survACC/blob/main/R/main.R)
 * The main method function R file can be downloaded from [here](https://github.com/malcogene/OIS_meta/blob/main/R/main_Function.R)
 
 ----
