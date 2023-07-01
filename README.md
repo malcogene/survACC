@@ -10,13 +10,13 @@ This page provides the supplementary R code and data to reproduce the experiment
 
 
 * The main R code can be downloaded from [here](https://github.com/malcogene/survACC/blob/main/R/main.R)
-* The main method function R file can be downloaded from [here](https://github.com/malcogene/OIS_meta/blob/main/R/main_Function.R)
+* The main method function R file can be downloaded from [here](https://github.com/malcogene/survACC/blob/main/R/main_function.R)
 
 ----
   
   > **Install package from the source**
   
-  * Package source file can be downloaded from [here](https://github.com/malcogene/OIS_meta/blob/main/R/main_Function.R)
+  * Package source file can be downloaded from [here](https://github.com/malcogene/survACC/blob/main/R/main_function.R)
 
 
 ----
